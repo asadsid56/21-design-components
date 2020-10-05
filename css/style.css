@@ -1,0 +1,17 @@
+.hero-image {
+    background-image: url("/img/hero-image.jpg"); /* The image used */
+    background-color: white; /* Used if the image is unavailable */
+    height: 100vh; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    position: relative;
+    width: 100%;
+    left: 30%;
+  }
+.card-content {
+    padding-top: 10%;
+}
+.card-content p {
+    font-size: 20px;
+    width: 20%;
+    padding: 10px;
