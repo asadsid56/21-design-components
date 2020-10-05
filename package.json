@@ -1,0 +1,22 @@
+{
+  "name": "21-design-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadsid56/21-design-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadsid56/21-design-components/issues"
+  },
+  "homepage": "https://github.com/asadsid56/21-design-components#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
