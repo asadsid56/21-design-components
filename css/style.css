@@ -1,5 +1,5 @@
 .hero-image {
-    background-image: url("./img/hero-image.jpg"); /* The image used */
+    background-image: url("../img/hero-image.jpg"); /* The image used */
     background-color: white; /* Used if the image is unavailable */
     height: 100vh; /* You must set a specified height */
     background-position: center; /* Center the image */
