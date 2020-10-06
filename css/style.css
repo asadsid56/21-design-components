@@ -1,9 +1,9 @@
 .hero-image {
-    background-image: url("../img/hero-image.jpg"); /* The image used */
-    background-color: white; /* Used if the image is unavailable */
-    height: 100vh; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
+    background-image: url("../img/hero-image.jpg");
+    background-color: white;
+    height: 100vh; 
+    background-position: center; 
+    background-repeat: no-repeat; 
     position: relative;
     width: 100%;
     left: 30%;
@@ -15,3 +15,19 @@
     font-size: 20px;
     width: 20%;
     padding: 10px;
+}
+
+@media screen and (max-width:768px) {
+  .card-content {
+    padding-top: 0%;
+}
+.card-content p{
+    font-size: 20px;
+    width: 40%;
+    padding: 10px;
+}
+  .deploy {
+    padding: 0;
+    font-size: 30px;
+  }
+}
